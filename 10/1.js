@@ -2,7 +2,7 @@
 (function () {
   const theme1 = {
     name: "Kocchi No Chinpo No Hou Ga Kimochi Yokatta Dake Nano",
-    theme: `img/10/Kocchi No Chinpo No Hou Ga Kimochi Yokatta Dake Nano/1.jpg`,
+    theme: `img/10/Kocchi No Chinpo No Hou Ga Kimochi Yokatta Dake Nano/49.jpg`,
   };
 
   const container = document.createElement("div");
